@@ -1,5 +1,11 @@
 # @backstage/plugin-techdocs-node
 
+## 1.16.0-next.1
+
+### Patch Changes
+
+- 1711594: Fixed local TechDocs generation when temporary source paths resolve through filesystem aliases.
+
 ## 1.16.0-next.0
 
 ### Minor Changes
